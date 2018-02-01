@@ -45,7 +45,8 @@ body {
 	margin-right: 40px;
 }
 .featurette-image.pull-right {
-	margin-left: 40px;
+  /* Commented because Top Tec Programmer header was overlapping, uncomment if something breaks */
+	/* margin-left: 40px; */
 }
 
 .featurette-heading {
